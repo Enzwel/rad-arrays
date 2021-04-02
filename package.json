@@ -1,5 +1,5 @@
 {
-  "name": "rad-arrays",
+  "name": "@Hurlyy/rad-arrays",
   "version": "0.1.0",
   "description": "Random Array generator",
   "main": "arrays.js",
