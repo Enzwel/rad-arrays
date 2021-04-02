@@ -1,8 +1,11 @@
 {
   "name": "@hurly77/rad-arrays",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Random Array generator",
   "main": "arrays.js",
+  "bin": {
+    "rad-array": "arrays.js"
+  },
   "scripts": {
     "test": "\"test\""
   },
@@ -11,7 +14,9 @@
     "url": "git://github.com/Hurly77/rad-arrays.git"
   },
   "keywords": [
-    "arrays"
+    "arrays",
+    "random",
+    "testing"
   ],
   "author": "C.J Levey",
   "license": "MIT",

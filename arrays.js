@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 let tools = require('./tools');
 
 const stringA = (n, arr) => {
@@ -78,7 +79,7 @@ const randomArray = (data, n, int = 9) => {
 	}
 };
 
-module.exports ={
-	radArray: randomArray,
-	fixArray: fixedA,
+module.exports = {
+	radArray: () => randomArray,
+	fixArray: () => fixedA,
 }
