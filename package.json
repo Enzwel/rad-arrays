@@ -7,7 +7,7 @@
     "rad-array": "arrays.js"
   },
   "scripts": {
-    "test": "\"test\""
+    "test": "exit 0"
   },
   "repository": {
     "type": "git",
