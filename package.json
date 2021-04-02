@@ -1,6 +1,6 @@
 {
   "name": "@hurly77/rad-arrays",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Random Array generator",
   "main": "arrays.js",
   "bin": {
