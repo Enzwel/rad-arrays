@@ -6,6 +6,4 @@ const passing = () => {
   )
 }
 
-module.exports = {
-  test: () => passing
-}
+module.exports = passing()
