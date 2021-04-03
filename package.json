@@ -7,7 +7,7 @@
     "rad-array": "arrays.js"
   },
   "scripts": {
-    "test": "echo \"Success: no test specified\" && exit 1"
+    "test": "none"
   },
   "repository": {
     "type": "git",
