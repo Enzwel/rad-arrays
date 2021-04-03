@@ -5,5 +5,3 @@ const passing = () => {
     "testing..."]
   )
 }
-
-module.exports = passing()
