@@ -80,6 +80,7 @@ const randomArray = (data, n, int = 9) => {
 };
 
 module.exports = {
-	radArray: () => randomArray,
-	fixArray: () => fixedA,
+	array: randomArray,
+	fixedArray: fixedA,
+	tools: tools
 }
